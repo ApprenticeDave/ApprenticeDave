@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ApprenticeDave
 - 👀 I’m interested in automated systems and making everything easy
-- 🌱 I’m currently learning information extraction across disparet data sources
+- 🌱 I’m currently diving into multiple areas including Digital Trust, Knowledge Graphs, RAG, Unreal Game Dev, Robotics, and VS Code Extentions
 
 
 <!---
