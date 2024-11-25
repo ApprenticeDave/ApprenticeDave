@@ -7,6 +7,7 @@
 - 🌱 I’m currently diving into multiple areas including Digital Trust, Knowledge Graphs, RAG, Unreal Game Dev, Robotics, and VS Code Extentions
 
 Projects:
+
 *[Visual Studio Code - Knowledge Map Extension](https://github.com/ApprenticeDave/VSCodeKnowledgeMap)*
 This is a pet project of mine where I am trying to replicate some of the functionality in other note taking tools such as Obsidian so that I never need to leave Visual Studio Code. 
 
