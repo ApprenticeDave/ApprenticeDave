@@ -9,9 +9,11 @@
 Projects:
 
 *[Visual Studio Code - Knowledge Map Extension](https://github.com/ApprenticeDave/VSCodeKnowledgeMap)*
+
 This is a pet project of mine where I am trying to replicate some of the functionality in other note taking tools such as Obsidian so that I never need to leave Visual Studio Code. 
 
 *Secret Project 1*
+
 I am busy learning Unreal 5.5 by building a game and getting to understand the engineering pipeline. Hopefully one day I will actually get this out there. 
 
 <!---
