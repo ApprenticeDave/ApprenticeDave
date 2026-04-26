@@ -1,7 +1,7 @@
 👋 Hi, I’m @ApprenticeDave
 - 👀 I’m interested in
   - Automated systems and making everything easy
-  - Artificual Inteligence - RAG/LLM's
+  - Artificual Inteligence - RAG/LLM's, Free Energy Principle, Neuroscience based AI
   - Trust Systems - Evidence Tracking and Immutability
   - Game Dev
 - 🌱 I’m currently diving into multiple areas including Digital Trust, Knowledge Graphs, RAG, Unreal Game Dev, Robotics, and VS Code Extentions
